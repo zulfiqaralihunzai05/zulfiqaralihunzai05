@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali Hunzai</h1>
-<h3 align="center">Sr.Flutter Developer (Android/iOS) | Full-Stack Developer | Dart | XML </h3>
+<h3 align="center">Sr. Mobile App Developer | Flutter | Flutterflow | Dart | Java | XML | Android App Developer| IOS | Software Engineer</h3>
 
 ---
 
