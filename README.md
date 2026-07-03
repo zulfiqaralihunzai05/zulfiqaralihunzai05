@@ -33,12 +33,12 @@
 ### 🧑‍💻 About Me
 
 ```text
-🙂 I am Zulfiqar Ali Hunzai
-😎 Interested in contributing expertise in mobile development.
-👥 Looking to collaborate on Innovative Projects.
-🧑‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
-📚 Love reading books on personal development.
-💬 Ask me about Web, Hack.
+🚀 Flutter Developer specializing in cross-platform (Android/iOS) app development
+🔧 Full-Stack & Python Developer with hands-on experience in FastAPI and REST APIs
+🌱 Passionate about building scalable mobile solutions and clean architecture
+🤝 Open to collaborating on impactful, innovative projects
+📖 Committed to continuous learning — currently exploring new tools and technologies
+💬 Feel free to reach out about mobile development, backend systems, or open-source collaboration
 ```
 
 <br>
